@@ -29,7 +29,6 @@ I care about:
 
 Currently preparing for **product-based company roles** while strengthening **DSA and SQL**.
 <!-- ===================== CONNECT ===================== -->
-## 📫 Connect With Me
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/)
@@ -54,26 +53,29 @@ Currently preparing for **product-based company roles** while strengthening **DS
 ## 🛠 Tech Stack
 
 ### Languages
-- Java
-- SQL
-- JavaScript (basic)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Backend
-- Spring Boot
-- Spring Security
-- JWT
-- REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
 
 ### Frontend
-- React (basic – API consumption & UI integration)
+![React](https://img.shields.io/badge/React-Basic-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases
-- PostgreSQL
-- MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-- Git & GitHub
-- Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 <!-- ===================== PROJECTS ===================== -->
 ## 📌 Projects
 
