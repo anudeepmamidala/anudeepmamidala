@@ -103,8 +103,8 @@ Focused on consistent backend development and interview preparation.
 > I prefer fewer, meaningful commits over noisy activity.
 <!-- ===================== CONNECT ===================== -->
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/
+- Email: saianudeepmamidala@gmail.com
 <!-- ===================== FOOTER ===================== -->
 ---
 ⭐ Repositories below reflect **real work**, not tutorial dumps.
