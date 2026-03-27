@@ -36,7 +36,7 @@ Backend-focused developer building **API-driven systems** using Java and Spring 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
 ### Backend
 
@@ -50,7 +50,7 @@ Backend-focused developer building **API-driven systems** using Java and Spring 
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-Basic-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
 
