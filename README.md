@@ -14,14 +14,13 @@ Backend-focused developer building **API-driven systems** using Java and Spring 
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect 
 
-[LinkedIn](https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/)
-[LeetCode](https://leetcode.com/anudeep_02)
-Email: [saianudeepmamidala@email.com](mailto:saianudeepmamidala@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/anudeep_02)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saianudeepmamidala@email.com)
 
 ---
-
 ## 🚀 Current Focus
 
 * Spring Boot backend systems
