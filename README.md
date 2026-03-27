@@ -1,28 +1,24 @@
 # 👋 Hi, I'm Anudeep
 
-### Backend-Focused Developer | Java & Spring Boot
+### Backend Developer | Java & Spring Boot
 
 ---
 
 ## 🧠 About Me
 
-I’m a backend-focused developer building **API-driven systems** using Java and Spring Boot.
+Backend-focused developer building **API-driven systems** using Java and Spring Boot.
 
-I focus on:
-
-* Clean service-layer architecture
-* Secure backend design (authentication & validation)
-* Writing code that actually holds up under constraints
-
-Currently preparing for **product-based roles** while strengthening **DSA and SQL**.
+* Strong focus on **execution logic, constraints, and backend control**
+* Experienced in **authentication, request handling, and system design basics**
+* Currently improving **DSA and SQL for product-based roles**
 
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/anudeep_02)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saianudeepmamidala@email.com)
+[LinkedIn](https://www.linkedin.com/in/sai-anudeep-mamidala-8118002b6/)
+[LeetCode](https://leetcode.com/anudeep_02)
+Email: [saianudeepmamidala@email.com](mailto:saianudeepmamidala@email.com)
 
 ---
 
@@ -31,7 +27,7 @@ Currently preparing for **product-based roles** while strengthening **DSA and SQ
 * Spring Boot backend systems
 * Spring Security + JWT
 * REST API design & validation
-* Interview-focused DSA and SQL
+* DSA and SQL (interview preparation)
 
 ---
 
@@ -47,73 +43,78 @@ Currently preparing for **product-based roles** while strengthening **DSA and SQ
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-Basic-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-Basic-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
 ---
 
 ## 📌 Projects
 
-### 🔹 CodeForge – Coding Interview Platform 
+### 🔹 CodeForge – Coding Interview Platform
 
-Backend-heavy system for evaluating coding interviews.
+Backend-focused system to execute and evaluate user-submitted code under controlled constraints.
 
 **Highlights**
 
-* Designed system to securely execute untrusted code with strict timeouts
-* Built REST APIs for code submission, execution, and evaluation
-* Implemented JWT-based authentication using Spring Security
-* Focused on backend constraints, isolation, and controlled execution
+* Built a **code execution engine using ProcessBuilder** to compile and run user programs in separate OS processes
+* Implemented **execution constraints (timeouts, input handling, output capture)** to control resource usage
+* Designed APIs for **code submission, execution, and evaluation**
+* Integrated **JWT-based authentication** using Spring Security
+* Structured backend using **Controller–Service architecture**
 
 **Tech:** Java, Spring Boot, JWT
 
 ---
 
-### 🔹 API Testing System (Spring Boot + React)
+### 🔹 API Testing System
 
-Full-stack tool to dynamically send HTTP requests and inspect responses.
+Tool to dynamically construct and execute HTTP requests.
 
 **Highlights**
 
-* Built dynamic API execution engine supporting GET, POST, PUT, DELETE
-* Designed backend using Controller–Service–DTO architecture
-* Implemented request builder with headers and token support
-* Integrated React frontend for real-time response visualization
-* Added in-memory request history tracking
+* Built a **dynamic HTTP execution engine using RestTemplate** supporting GET, POST, PUT, DELETE
+* Implemented flexible request handling with **headers, request body, and token-based auth**
+* Used **Controller–Service–DTO architecture** for clean backend design
+* Added **request history tracking** for repeated testing
 
-**Tech:** Spring Boot, React, REST APIs
+**Tech:** Spring Boot, React
 
 ---
 
-### 🔹 Expense Tracker – Full Stack Application
+### 🔹 Expense Tracker
 
-End-to-end expense management system.
+Full-stack application for managing expenses.
 
 **Highlights**
 
-* Authenticated CRUD APIs
-* Persistent storage using relational database
-* Frontend-backend integration
+* Built authenticated CRUD APIs
+* Integrated relational database for persistent storage
+* Connected frontend with backend APIs
 
 **Tech:** Spring Boot, React, PostgreSQL
 
 ---
 
-## 📊 GitHub Activity
+## 📈 Problem Solving
 
-Focused on building **real backend systems** and improving problem-solving.
-
-> I prioritize depth and correctness over noisy commits.
+* Solved 140+ DSA problems on LeetCode
+* Comfortable with arrays, linked lists, trees, and basic graphs
 
 ---
 
-⭐ Projects reflect practical implementations, not tutorial-based code.
+## 📊 GitHub Activity
+
+Focused on building **backend-heavy systems** and improving problem-solving.
+
+> Preference: depth, correctness, and real implementation over noisy commits
+
+---
+
+⭐ Projects reflect practical implementations with focus on backend logic and constraints.
