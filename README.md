@@ -56,11 +56,27 @@ Currently preparing for **product-based roles** while strengthening **DSA and SQ
 
 ### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
 ## 📌 Projects
+
+### 🔹 CodeForge – Coding Interview Platform 
+
+Backend-heavy system for evaluating coding interviews.
+
+**Highlights**
+
+* Designed system to securely execute untrusted code with strict timeouts
+* Built REST APIs for code submission, execution, and evaluation
+* Implemented JWT-based authentication using Spring Security
+* Focused on backend constraints, isolation, and controlled execution
+
+**Tech:** Java, Spring Boot, JWT
+
+---
 
 ### 🔹 API Testing System (Spring Boot + React)
 
@@ -88,7 +104,7 @@ End-to-end expense management system.
 * Persistent storage using relational database
 * Frontend-backend integration
 
-**Tech:** Spring Boot, React, MySQL
+**Tech:** Spring Boot, React, PostgreSQL
 
 ---
 
